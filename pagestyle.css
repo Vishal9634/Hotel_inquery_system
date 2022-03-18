@@ -1,0 +1,22 @@
+body
+{
+	background-color:black;
+}
+table
+{
+	font-family:arial;
+	font-size:14px;
+	background-color:white;
+}
+hr
+{
+	color:black;
+}
+.sitetitle
+{
+	font-family:impact;color:black;font-size:35px;
+}
+.sitefooter
+{
+	background-color:black;color:white;
+}

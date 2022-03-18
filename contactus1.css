@@ -1,0 +1,87 @@
+body {
+  margin:0;
+padding: 0;
+ background: linear-gradient(rgba(0,0,50,0.5)rgba(0,0,50,0.5)),url(img/img6.jpeg);
+}
+
+*{
+margin: auto;
+padding: 0;
+}
+.header
+{
+ background: #767690;
+ text-align: center;
+ padding: 10px;
+ color: white;
+ font-style: italic;
+ height: 125px;
+}
+.contactform
+{
+ background:blue;
+ height: 400px;
+ }
+ .address{
+ width: 40%;
+ float: left;
+ margin: 100px 0px 0px 60px;
+color: #767690;
+font-size: 18px;
+min-height: 500px;
+font-family: -webkit-body;
+font-style: italic; 
+ }
+ .contact{
+ padding-top: 80px;
+ color: #767690;
+ font-size: 18px;
+ font-family: italic;
+ }
+ #name
+ {
+ width:312px;
+ border: 2px solid #767690;
+ border-radius: 3px;
+ outline: 0px;
+ padding-left: 6px;
+ 
+ outline: 0px;
+ }
+ #sub{
+ width:628px;
+ height: 30px;
+ border: 2px solid #767690;
+ border-radius: 3px;
+ padding-left: 5px;
+ 
+ outline: 0px;
+ }
+ #nam{
+ width:630px;
+ height: 100px;
+ border: 2px solid #767690;
+ border-radius: 3px;
+ padding-left: 8px;
+ outline: 0px;
+ }
+ 
+ #na
+ {
+ width:300px;
+ height: 40px;
+ margin-left: 160px;
+ background: #767690;
+ border: none;
+ outline: 0px;
+ color: white;
+ font-size: 22px;
+ border-radius:3px;
+ }
+ footer
+ {
+ padding: 40px;
+ color: white;
+ background: #767690;
+ font-size: 18px;
+ } 
